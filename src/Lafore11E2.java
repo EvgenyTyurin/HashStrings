@@ -6,7 +6,7 @@ import java.util.Scanner;
     Robert Lafore "Data Structures And Algorithms in Java"
     Chapter 11 Exercise 2: Hash strings
 
-    by Evgeny Tyurin
+    2018 Evgeny Tyurin
 
 */
 
